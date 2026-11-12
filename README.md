@@ -11,5 +11,5 @@
   4,Hit the spacebar to clear the screen  
 
     
-# CAN BE USE ONLY IN LAPTOP OR PC
+# SHOULD BE USED ONLY ON LAPTOP OR PC
   
