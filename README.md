@@ -9,4 +9,7 @@
   3,Let go of shift to move your hand to the next letter  
   
   4,Hit the spacebar to clear the screen  
+
+    
+# CAN BE USE ONLY IN LAPTOP OR PC
   
